@@ -1,7 +1,9 @@
-### Hi there 👋
+### Hi there. I'm Poshan Agrawal  👋 
 
 <!--
 **PoshanAgrawal/PoshanAgrawal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+[![Poshan's GitHub Banner](./banner.png)]
 
 Here are some ideas to get you started:
 
