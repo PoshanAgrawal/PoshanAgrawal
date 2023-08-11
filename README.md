@@ -22,7 +22,7 @@ I'm currently working on the application of machine learning in the option prici
 I'm always excited to connect with fellow enthusiasts, professionals, and learners in the field of quantitative analysis. Feel free to reach out to me through email or LinkedIn. Let's learn and grow together!
 
 ### Contact Me
-[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](agrawalposhan@gmail.com)          
+[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:agrawalposhan@gmail.com)          
 
 [![Kaggle Badge](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white)](https://www.kaggle.com/poshanagrawal)
 
