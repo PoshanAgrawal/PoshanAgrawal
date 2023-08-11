@@ -6,7 +6,6 @@
 
 ![banner](https://github.com/PoshanAgrawal/PoshanAgrawal/assets/121961214/147bf21a-fbc8-467f-a1a1-6de4ee561c0c)
 
-[![Poshan's GitHub Banner](./banner.png)](https://www.kaggle.com/poshanagrawal)
 
 ## About Me
 
