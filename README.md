@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 [![Poshan's GitHub Banner](./banner.png)]
 
-##About Me
+## About Me
 Greetings! I am Poshan Agrawal, an impassioned learner driven by an insatiable enthusiasm for the realm of quantitative analysis. My journey involves a relentless pursuit of honing my analytical finesse and unraveling myriad quantitative methodologies. This expedition is currently unfolding at the distinguished Indian Institute of Management Bodh Gaya, where I am immersing myself in the multifaceted tapestry of skills that illuminate the world of numbers.
 
 Simultaneously, I am wholeheartedly engaged in pursuing a Master of Science in Financial Engineering from the esteemed WorldQuant University. This parallel voyage is a catalyst for amplifying my expertise within the intricate contours of quantitative finance, forging a seamless bridge between theory and application.
