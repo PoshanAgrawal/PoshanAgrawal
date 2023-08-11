@@ -2,20 +2,9 @@
 
 <!--
 **PoshanAgrawal/PoshanAgrawal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
 
+![banner](https://github.com/PoshanAgrawal/PoshanAgrawal/assets/121961214/147bf21a-fbc8-467f-a1a1-6de4ee561c0c)
 
 [![Poshan's GitHub Banner](./banner.png)](https://www.kaggle.com/poshanagrawal)
 
@@ -34,4 +23,6 @@ I'm currently working on the application of machine learning in the option prici
 I'm always excited to connect with fellow enthusiasts, professionals, and learners in the field of quantitative analysis. Feel free to reach out to me through email or LinkedIn. Let's learn and grow together!
 
 ### Contact Me
-[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](agrawalposhan@gmail.com)          [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/poshan-agrawal/)          [![Kaggle Badge](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white)](https://www.kaggle.com/poshanagrawal)
+[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](agrawalposhan@gmail.com)          
+[![Kaggle Badge](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white)](https://www.kaggle.com/poshanagrawal)
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/poshan-agrawal/)         
